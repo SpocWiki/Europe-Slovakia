@@ -1,5 +1,5 @@
 ﻿---
-location: [48.58,18.55]
+location: [48.58,18.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.55]
-[geo-lat::48.58]
-[name::Torna]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.55] 
+[geo-lat::48.58] 
+[name::Torna] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Torna
-coordinates: [[Torna]]
-markerFile: [[Torna]]
+coordinates: [[Torna]] 
+markerFile: [[Torna]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

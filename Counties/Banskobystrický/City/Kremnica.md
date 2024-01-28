@@ -1,5 +1,5 @@
 ﻿---
-location: [48.7,18.92]
+location: [48.7,18.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.92]
-[geo-lat::48.7]
-[name::Kremnica]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.92] 
+[geo-lat::48.7] 
+[name::Kremnica] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kremnica
-coordinates: [[Kremnica]]
-markerFile: [[Kremnica]]
+coordinates: [[Kremnica]] 
+markerFile: [[Kremnica]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

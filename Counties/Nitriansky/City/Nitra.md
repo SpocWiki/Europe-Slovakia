@@ -1,5 +1,5 @@
 ﻿---
-location: [48.32,18.1]
+location: [48.32,18.1] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.1]
-[geo-lat::48.32]
-[name::Nitra]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.1] 
+[geo-lat::48.32] 
+[name::Nitra] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Nitra
-coordinates: [[Nitra]]
-markerFile: [[Nitra]]
+coordinates: [[Nitra]] 
+markerFile: [[Nitra]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

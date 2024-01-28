@@ -1,5 +1,5 @@
 ﻿---
-location: [48.98,21.27]
+location: [48.98,21.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.27]
-[geo-lat::48.98]
-[name::Eperjes]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::21.27] 
+[geo-lat::48.98] 
+[name::Eperjes] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Eperjes
-coordinates: [[Eperjes]]
-markerFile: [[Eperjes]]
+coordinates: [[Eperjes]] 
+markerFile: [[Eperjes]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

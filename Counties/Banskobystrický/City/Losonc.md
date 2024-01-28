@@ -1,5 +1,5 @@
 ﻿---
-location: [48.33,19.68]
+location: [48.33,19.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.68]
-[geo-lat::48.33]
-[name::Losonc]
-[State::]
-[Country::[[Hungary]]]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::19.68] 
+[geo-lat::48.33] 
+[name::Losonc] 
+State ::  
+Country :: [[Hungary]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Losonc
-coordinates: [[Losonc]]
-markerFile: [[Losonc]]
+coordinates: [[Losonc]] 
+markerFile: [[Losonc]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

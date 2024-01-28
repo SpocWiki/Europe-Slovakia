@@ -1,5 +1,5 @@
 ﻿---
-location: [48.47,18.9]
+location: [48.47,18.9] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.9]
-[geo-lat::48.47]
-[name::Banska Stiavnica]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.9] 
+[geo-lat::48.47] 
+[name::Banska Stiavnica] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Banska Stiavnica
-coordinates: [[Banska_Stiavnica]]
-markerFile: [[Banska_Stiavnica]]
+coordinates: [[Banska_Stiavnica]] 
+markerFile: [[Banska_Stiavnica]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
