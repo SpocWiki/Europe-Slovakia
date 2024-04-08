@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.17] 
-[geo-lat::47.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.17] 
+[has_place_latitude::47.98] 
 [name::Ersekujvar] 
 State ::  
 Country :: Czech_Rep.] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.55] 
-[geo-lat::48.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.55] 
+[has_place_latitude::48.58] 
 [name::Torna] 
 State ::  
 Country :: [[Hungary]]  

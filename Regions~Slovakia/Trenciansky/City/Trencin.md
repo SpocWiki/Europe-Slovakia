@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.07] 
-[geo-lat::48.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.07] 
+[has_place_latitude::48.9] 
 [name::Trencin] 
 State ::  
 Country :: Czech_Rep.] 

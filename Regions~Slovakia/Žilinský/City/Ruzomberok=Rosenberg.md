@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.3] 
-[geo-lat::49.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.3] 
+[has_place_latitude::49.08] 
 [name::Ruzomberok=Rosenberg] 
 State ::  
 Country :: Czech_Rep.] 

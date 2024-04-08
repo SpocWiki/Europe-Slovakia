@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.12] 
-[geo-lat::48.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.12] 
+[has_place_latitude::48.08] 
 [name::Pressburg=Bratislava] 
 State ::  
 Country :: Czech_Rep.] 

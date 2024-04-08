@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.9] 
-[geo-lat::48.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.9] 
+[has_place_latitude::48.47] 
 [name::Banska Stiavnica] 
 State ::  
 Country :: Czech_Rep.] 

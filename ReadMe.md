@@ -128,8 +128,10 @@ Capital :: [[Bratislava]]
 ![[Flag_of_Slovakia.svg|350]] 
 [Alcohol-l::13.3] 
 [Language-Id::] 
-[geo-lon::17.1] 
-[geo-lat::48.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.1] 
+[has_place_latitude::48.13] 
 
 
 

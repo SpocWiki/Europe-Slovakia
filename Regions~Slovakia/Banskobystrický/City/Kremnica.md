@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.92] 
-[geo-lat::48.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.92] 
+[has_place_latitude::48.7] 
 [name::Kremnica] 
 State ::  
 Country :: Czech_Rep.] 
