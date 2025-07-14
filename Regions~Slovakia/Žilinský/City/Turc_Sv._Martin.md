@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Turc_Sv._Martin.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.public.md) 
+### [Turc_Sv._Martin](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.md) 
 
-### [Turc_Sv._Martin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.internal.md) 
+### [Turc_Sv._Martin.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.public.md) 
 
-### [Turc_Sv._Martin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.protect.md) 
+### [Turc_Sv._Martin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.internal.md) 
 
-### [Turc_Sv._Martin.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.private.md) 
+### [Turc_Sv._Martin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.protect.md) 
 
-### [Turc_Sv._Martin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.personal.md) 
+### [Turc_Sv._Martin.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.private.md) 
 
-### [Turc_Sv._Martin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.secret.md)
+### [Turc_Sv._Martin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.personal.md) 
+
+### [Turc_Sv._Martin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Turc_Sv._Martin.secret.md)
 

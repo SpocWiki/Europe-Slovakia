@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eperjes.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.public.md) 
+### [Eperjes](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.md) 
 
-### [Eperjes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.internal.md) 
+### [Eperjes.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.public.md) 
 
-### [Eperjes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.protect.md) 
+### [Eperjes.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.internal.md) 
 
-### [Eperjes.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.private.md) 
+### [Eperjes.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.protect.md) 
 
-### [Eperjes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.personal.md) 
+### [Eperjes.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.private.md) 
 
-### [Eperjes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.secret.md)
+### [Eperjes.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.personal.md) 
+
+### [Eperjes.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Eperjes.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Piestany=Postyan.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.public.md) 
+### [Piestany=Postyan](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.md) 
 
-### [Piestany=Postyan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.internal.md) 
+### [Piestany=Postyan.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.public.md) 
 
-### [Piestany=Postyan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.protect.md) 
+### [Piestany=Postyan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.internal.md) 
 
-### [Piestany=Postyan.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.private.md) 
+### [Piestany=Postyan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.protect.md) 
 
-### [Piestany=Postyan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.personal.md) 
+### [Piestany=Postyan.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.private.md) 
 
-### [Piestany=Postyan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.secret.md)
+### [Piestany=Postyan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.personal.md) 
+
+### [Piestany=Postyan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Piestany=Postyan.secret.md)
 

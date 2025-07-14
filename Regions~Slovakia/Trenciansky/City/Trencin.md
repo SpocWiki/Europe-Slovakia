@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trencin.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.public.md) 
+### [Trencin](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.md) 
 
-### [Trencin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.internal.md) 
+### [Trencin.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.public.md) 
 
-### [Trencin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.protect.md) 
+### [Trencin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.internal.md) 
 
-### [Trencin.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.private.md) 
+### [Trencin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.protect.md) 
 
-### [Trencin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.personal.md) 
+### [Trencin.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.private.md) 
 
-### [Trencin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.secret.md)
+### [Trencin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.personal.md) 
+
+### [Trencin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Trencin.secret.md)
 

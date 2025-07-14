@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ersekujvar.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.public.md) 
+### [Ersekujvar](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.md) 
 
-### [Ersekujvar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.internal.md) 
+### [Ersekujvar.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.public.md) 
 
-### [Ersekujvar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.protect.md) 
+### [Ersekujvar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.internal.md) 
 
-### [Ersekujvar.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.private.md) 
+### [Ersekujvar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.protect.md) 
 
-### [Ersekujvar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.personal.md) 
+### [Ersekujvar.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.private.md) 
 
-### [Ersekujvar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.secret.md)
+### [Ersekujvar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.personal.md) 
+
+### [Ersekujvar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.secret.md)
 

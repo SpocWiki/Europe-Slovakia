@@ -134,15 +134,17 @@ Capital :: [[Bratislava]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/ReadMe.secret.md)
 

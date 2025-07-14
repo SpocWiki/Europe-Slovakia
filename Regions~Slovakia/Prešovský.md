@@ -41,15 +41,17 @@ markerFolder: ./Prešov/
 
 ## Confidential Links & Embeds: 
 
-### [Prešovský.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.public.md) 
+### [Prešovský](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.md) 
 
-### [Prešovský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.internal.md) 
+### [Prešovský.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.public.md) 
 
-### [Prešovský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.protect.md) 
+### [Prešovský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.internal.md) 
 
-### [Prešovský.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.private.md) 
+### [Prešovský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.protect.md) 
 
-### [Prešovský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.personal.md) 
+### [Prešovský.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.private.md) 
 
-### [Prešovský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaPrešovský.secret.md)
+### [Prešovský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.personal.md) 
+
+### [Prešovský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský.secret.md)
 

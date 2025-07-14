@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pressburg=Bratislava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.public.md) 
+### [Pressburg=Bratislava](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.md) 
 
-### [Pressburg=Bratislava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.internal.md) 
+### [Pressburg=Bratislava.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.public.md) 
 
-### [Pressburg=Bratislava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.protect.md) 
+### [Pressburg=Bratislava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.internal.md) 
 
-### [Pressburg=Bratislava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.private.md) 
+### [Pressburg=Bratislava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.protect.md) 
 
-### [Pressburg=Bratislava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.personal.md) 
+### [Pressburg=Bratislava.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.private.md) 
 
-### [Pressburg=Bratislava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.secret.md)
+### [Pressburg=Bratislava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.personal.md) 
+
+### [Pressburg=Bratislava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Pressburg=Bratislava.secret.md)
 

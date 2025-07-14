@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruzomberok=Rosenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.public.md) 
+### [Ruzomberok=Rosenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.md) 
 
-### [Ruzomberok=Rosenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.internal.md) 
+### [Ruzomberok=Rosenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.public.md) 
 
-### [Ruzomberok=Rosenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.protect.md) 
+### [Ruzomberok=Rosenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.internal.md) 
 
-### [Ruzomberok=Rosenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.private.md) 
+### [Ruzomberok=Rosenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.protect.md) 
 
-### [Ruzomberok=Rosenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.personal.md) 
+### [Ruzomberok=Rosenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.private.md) 
 
-### [Ruzomberok=Rosenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.secret.md)
+### [Ruzomberok=Rosenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.personal.md) 
+
+### [Ruzomberok=Rosenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Žilinský/City/Ruzomberok=Rosenberg.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Banskobystrický/
 
 ## Confidential Links & Embeds: 
 
-### [Banskobystrický.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.public.md) 
+### [Banskobystrický](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.md) 
 
-### [Banskobystrický.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.internal.md) 
+### [Banskobystrický.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.public.md) 
 
-### [Banskobystrický.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.protect.md) 
+### [Banskobystrický.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.internal.md) 
 
-### [Banskobystrický.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.private.md) 
+### [Banskobystrický.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.protect.md) 
 
-### [Banskobystrický.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.personal.md) 
+### [Banskobystrický.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.private.md) 
 
-### [Banskobystrický.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaBanskobystrický.secret.md)
+### [Banskobystrický.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.personal.md) 
+
+### [Banskobystrický.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický.secret.md)
 

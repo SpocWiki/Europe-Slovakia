@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torna.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.public.md) 
+### [Torna](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.md) 
 
-### [Torna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.internal.md) 
+### [Torna.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.public.md) 
 
-### [Torna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.protect.md) 
+### [Torna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.internal.md) 
 
-### [Torna.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.private.md) 
+### [Torna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.protect.md) 
 
-### [Torna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.personal.md) 
+### [Torna.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.private.md) 
 
-### [Torna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.secret.md)
+### [Torna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.personal.md) 
+
+### [Torna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.secret.md)
 

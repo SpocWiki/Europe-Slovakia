@@ -41,15 +41,17 @@ markerFolder: ./Košický/
 
 ## Confidential Links & Embeds: 
 
-### [Košický.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.public.md) 
+### [Košický](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.md) 
 
-### [Košický.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.internal.md) 
+### [Košický.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.public.md) 
 
-### [Košický.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.protect.md) 
+### [Košický.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.internal.md) 
 
-### [Košický.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.private.md) 
+### [Košický.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.protect.md) 
 
-### [Košický.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.personal.md) 
+### [Košický.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.private.md) 
 
-### [Košický.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaKošický.secret.md)
+### [Košický.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.personal.md) 
+
+### [Košický.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.secret.md)
 

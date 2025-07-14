@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tencin=Trencsen.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.public.md) 
+### [Tencin=Trencsen](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.md) 
 
-### [Tencin=Trencsen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.internal.md) 
+### [Tencin=Trencsen.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.public.md) 
 
-### [Tencin=Trencsen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.protect.md) 
+### [Tencin=Trencsen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.internal.md) 
 
-### [Tencin=Trencsen.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.private.md) 
+### [Tencin=Trencsen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.protect.md) 
 
-### [Tencin=Trencsen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.personal.md) 
+### [Tencin=Trencsen.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.private.md) 
 
-### [Tencin=Trencsen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTencin=Trencsen.secret.md)
+### [Tencin=Trencsen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.personal.md) 
+
+### [Tencin=Trencsen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Tencin=Trencsen.secret.md)
 

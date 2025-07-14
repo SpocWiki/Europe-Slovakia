@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tyrnau=Trnava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.public.md) 
+### [Tyrnau=Trnava](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.md) 
 
-### [Tyrnau=Trnava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.internal.md) 
+### [Tyrnau=Trnava.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.public.md) 
 
-### [Tyrnau=Trnava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.protect.md) 
+### [Tyrnau=Trnava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.internal.md) 
 
-### [Tyrnau=Trnava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.private.md) 
+### [Tyrnau=Trnava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.protect.md) 
 
-### [Tyrnau=Trnava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.personal.md) 
+### [Tyrnau=Trnava.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.private.md) 
 
-### [Tyrnau=Trnava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTyrnau=Trnava.secret.md)
+### [Tyrnau=Trnava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.personal.md) 
+
+### [Tyrnau=Trnava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.secret.md)
 

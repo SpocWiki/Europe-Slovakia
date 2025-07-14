@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Losonc.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.public.md) 
+### [Losonc](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.md) 
 
-### [Losonc.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.internal.md) 
+### [Losonc.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.public.md) 
 
-### [Losonc.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.protect.md) 
+### [Losonc.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.internal.md) 
 
-### [Losonc.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.private.md) 
+### [Losonc.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.protect.md) 
 
-### [Losonc.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.personal.md) 
+### [Losonc.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.private.md) 
 
-### [Losonc.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityLosonc.secret.md)
+### [Losonc.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.personal.md) 
+
+### [Losonc.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Losonc.secret.md)
 

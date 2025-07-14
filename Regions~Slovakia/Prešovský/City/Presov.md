@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Presov.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.public.md) 
+### [Presov](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.md) 
 
-### [Presov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.internal.md) 
+### [Presov.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.public.md) 
 
-### [Presov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.protect.md) 
+### [Presov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.internal.md) 
 
-### [Presov.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.private.md) 
+### [Presov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.protect.md) 
 
-### [Presov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.personal.md) 
+### [Presov.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.private.md) 
 
-### [Presov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.secret.md)
+### [Presov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.personal.md) 
+
+### [Presov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Prešovský/City/Presov.secret.md)
 

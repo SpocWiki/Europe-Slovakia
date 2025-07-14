@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kremnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.public.md) 
+### [Kremnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.md) 
 
-### [Kremnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.internal.md) 
+### [Kremnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.public.md) 
 
-### [Kremnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.protect.md) 
+### [Kremnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.internal.md) 
 
-### [Kremnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.private.md) 
+### [Kremnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.protect.md) 
 
-### [Kremnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.personal.md) 
+### [Kremnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.private.md) 
 
-### [Kremnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.secret.md)
+### [Kremnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.personal.md) 
+
+### [Kremnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Kremnica.secret.md)
 

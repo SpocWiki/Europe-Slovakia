@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bratislava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.public.md) 
+### [Bratislava](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.md) 
 
-### [Bratislava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.internal.md) 
+### [Bratislava.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.public.md) 
 
-### [Bratislava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.protect.md) 
+### [Bratislava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.internal.md) 
 
-### [Bratislava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.private.md) 
+### [Bratislava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.protect.md) 
 
-### [Bratislava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.personal.md) 
+### [Bratislava.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.private.md) 
 
-### [Bratislava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.secret.md)
+### [Bratislava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.personal.md) 
+
+### [Bratislava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zvolen.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.public.md) 
+### [Zvolen](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.md) 
 
-### [Zvolen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.internal.md) 
+### [Zvolen.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.public.md) 
 
-### [Zvolen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.protect.md) 
+### [Zvolen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.internal.md) 
 
-### [Zvolen.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.private.md) 
+### [Zvolen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.protect.md) 
 
-### [Zvolen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.personal.md) 
+### [Zvolen.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.private.md) 
 
-### [Zvolen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityZvolen.secret.md)
+### [Zvolen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.personal.md) 
+
+### [Zvolen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Zvolen.secret.md)
 

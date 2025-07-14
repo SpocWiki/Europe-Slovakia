@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Banska_Stiavnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.public.md) 
+### [Banska_Stiavnica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.md) 
 
-### [Banska_Stiavnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.internal.md) 
+### [Banska_Stiavnica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.public.md) 
 
-### [Banska_Stiavnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.protect.md) 
+### [Banska_Stiavnica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.internal.md) 
 
-### [Banska_Stiavnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.private.md) 
+### [Banska_Stiavnica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.protect.md) 
 
-### [Banska_Stiavnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.personal.md) 
+### [Banska_Stiavnica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.private.md) 
 
-### [Banska_Stiavnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBanska_Stiavnica.secret.md)
+### [Banska_Stiavnica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.personal.md) 
+
+### [Banska_Stiavnica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Banska_Stiavnica.secret.md)
 

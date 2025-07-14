@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Benska_Bystrica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.public.md) 
+### [Benska_Bystrica](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.md) 
 
-### [Benska_Bystrica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.internal.md) 
+### [Benska_Bystrica.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.public.md) 
 
-### [Benska_Bystrica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.protect.md) 
+### [Benska_Bystrica.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.internal.md) 
 
-### [Benska_Bystrica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.private.md) 
+### [Benska_Bystrica.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.protect.md) 
 
-### [Benska_Bystrica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.personal.md) 
+### [Benska_Bystrica.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.private.md) 
 
-### [Benska_Bystrica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.secret.md)
+### [Benska_Bystrica.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.personal.md) 
+
+### [Benska_Bystrica.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Banskobystrický/City/Benska_Bystrica.secret.md)
 

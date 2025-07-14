@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Galanta.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.public.md) 
+### [Galanta](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.md) 
 
-### [Galanta.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.internal.md) 
+### [Galanta.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.public.md) 
 
-### [Galanta.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.protect.md) 
+### [Galanta.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.internal.md) 
 
-### [Galanta.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.private.md) 
+### [Galanta.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.protect.md) 
 
-### [Galanta.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.personal.md) 
+### [Galanta.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.private.md) 
 
-### [Galanta.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityGalanta.secret.md)
+### [Galanta.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.personal.md) 
+
+### [Galanta.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Galanta.secret.md)
 

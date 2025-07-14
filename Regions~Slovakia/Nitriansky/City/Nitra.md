@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nitra.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.public.md) 
+### [Nitra](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.md) 
 
-### [Nitra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.internal.md) 
+### [Nitra.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.public.md) 
 
-### [Nitra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.protect.md) 
+### [Nitra.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.internal.md) 
 
-### [Nitra.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.private.md) 
+### [Nitra.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.protect.md) 
 
-### [Nitra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.personal.md) 
+### [Nitra.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.private.md) 
 
-### [Nitra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.secret.md)
+### [Nitra.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.personal.md) 
+
+### [Nitra.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Nitra.secret.md)
 
