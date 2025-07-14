@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49,21.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Presov|Presov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Presov.public|Presov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Presov.internal|Presov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Presov.protect|Presov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Presov.private|Presov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Presov.personal|Presov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Presov.secret|Presov.secret]] 
+
+### [Presov.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.public.md) 
+
+### [Presov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.internal.md) 
+
+### [Presov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.protect.md) 
+
+### [Presov.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.private.md) 
+
+### [Presov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.personal.md) 
+
+### [Presov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityPresov.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.38,17.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Trnava|Trnava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trnava.public|Trnava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trnava.internal|Trnava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trnava.protect|Trnava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trnava.private|Trnava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trnava.personal|Trnava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trnava.secret|Trnava.secret]] 
+
+### [Trnava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.public.md) 
+
+### [Trnava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.internal.md) 
+
+### [Trnava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.protect.md) 
+
+### [Trnava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.private.md) 
+
+### [Trnava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.personal.md) 
+
+### [Trnava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityTrnava.secret.md)
+

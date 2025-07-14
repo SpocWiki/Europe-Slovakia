@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.22,18.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Zilina|Zilina]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zilina.public|Zilina.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zilina.internal|Zilina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zilina.protect|Zilina.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zilina.private|Zilina.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zilina.personal|Zilina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zilina.secret|Zilina.secret]] 
+
+### [Zilina.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.public.md) 
+
+### [Zilina.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.internal.md) 
+
+### [Zilina.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.protect.md) 
+
+### [Zilina.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.private.md) 
+
+### [Zilina.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.personal.md) 
+
+### [Zilina.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityZilina.secret.md)
+

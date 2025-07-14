@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.72,21.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kassa|Kassa]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kassa.public|Kassa.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kassa.internal|Kassa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kassa.protect|Kassa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kassa.private|Kassa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kassa.personal|Kassa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kassa.secret|Kassa.secret]] 
+
+### [Kassa.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.public.md) 
+
+### [Kassa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.internal.md) 
+
+### [Kassa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.protect.md) 
+
+### [Kassa.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.private.md) 
+
+### [Kassa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.personal.md) 
+
+### [Kassa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Košický\CityKassa.secret.md)
+

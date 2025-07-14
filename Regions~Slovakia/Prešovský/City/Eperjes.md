@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.98,21.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Eperjes|Eperjes]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Eperjes.public|Eperjes.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eperjes.internal|Eperjes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eperjes.protect|Eperjes.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eperjes.private|Eperjes.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eperjes.personal|Eperjes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eperjes.secret|Eperjes.secret]] 
+
+### [Eperjes.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.public.md) 
+
+### [Eperjes.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.internal.md) 
+
+### [Eperjes.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.protect.md) 
+
+### [Eperjes.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.private.md) 
+
+### [Eperjes.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.personal.md) 
+
+### [Eperjes.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Prešovský\CityEperjes.secret.md)
+

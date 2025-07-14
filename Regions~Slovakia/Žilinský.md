@@ -40,11 +40,16 @@ markerFolder: ./Žilinský/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovakia/Counties/Žilinský|Žilinský]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovakia/Counties/Žilinský.public|Žilinský.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Žilinský.internal|Žilinský.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Žilinský.protect|Žilinský.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovakia/Counties/Žilinský.private|Žilinský.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Žilinský.personal|Žilinský.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Žilinský.secret|Žilinský.secret]] 
+
+### [Žilinský.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.public.md) 
+
+### [Žilinský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.internal.md) 
+
+### [Žilinský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.protect.md) 
+
+### [Žilinský.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.private.md) 
+
+### [Žilinský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.personal.md) 
+
+### [Žilinský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaŽilinský.secret.md)
 

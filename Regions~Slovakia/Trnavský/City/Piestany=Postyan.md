@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.62,17.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan|Piestany=Postyan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.public|Piestany=Postyan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.internal|Piestany=Postyan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.protect|Piestany=Postyan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.private|Piestany=Postyan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.personal|Piestany=Postyan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Piestany=Postyan.secret|Piestany=Postyan.secret]] 
+
+### [Piestany=Postyan.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.public.md) 
+
+### [Piestany=Postyan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.internal.md) 
+
+### [Piestany=Postyan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.protect.md) 
+
+### [Piestany=Postyan.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.private.md) 
+
+### [Piestany=Postyan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.personal.md) 
+
+### [Piestany=Postyan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trnavský\CityPiestany=Postyan.secret.md)
+

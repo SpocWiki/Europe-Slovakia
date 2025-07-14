@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.9,18.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Trencin|Trencin]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trencin.public|Trencin.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trencin.internal|Trencin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trencin.protect|Trencin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trencin.private|Trencin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trencin.personal|Trencin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trencin.secret|Trencin.secret]] 
+
+### [Trencin.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.public.md) 
+
+### [Trencin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.internal.md) 
+
+### [Trencin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.protect.md) 
+
+### [Trencin.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.private.md) 
+
+### [Trencin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.personal.md) 
+
+### [Trencin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTrencin.secret.md)
+

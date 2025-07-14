@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.32,18.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Nitra|Nitra]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nitra.public|Nitra.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nitra.internal|Nitra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nitra.protect|Nitra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nitra.private|Nitra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nitra.personal|Nitra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nitra.secret|Nitra.secret]] 
+
+### [Nitra.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.public.md) 
+
+### [Nitra.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.internal.md) 
+
+### [Nitra.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.protect.md) 
+
+### [Nitra.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.private.md) 
+
+### [Nitra.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.personal.md) 
+
+### [Nitra.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityNitra.secret.md)
+

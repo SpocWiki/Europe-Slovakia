@@ -132,12 +132,17 @@ Capital :: [[Bratislava]]
 [has_place_latitude::48.13] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Slovakia|Slovakia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\SlovakiaReadMe.secret.md)
+

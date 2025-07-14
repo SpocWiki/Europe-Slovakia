@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.75,19.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica|Benska_Bystrica]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.public|Benska_Bystrica.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.internal|Benska_Bystrica.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.protect|Benska_Bystrica.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.private|Benska_Bystrica.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.personal|Benska_Bystrica.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Benska_Bystrica.secret|Benska_Bystrica.secret]] 
+
+### [Benska_Bystrica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.public.md) 
+
+### [Benska_Bystrica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.internal.md) 
+
+### [Benska_Bystrica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.protect.md) 
+
+### [Benska_Bystrica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.private.md) 
+
+### [Benska_Bystrica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.personal.md) 
+
+### [Benska_Bystrica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityBenska_Bystrica.secret.md)
+

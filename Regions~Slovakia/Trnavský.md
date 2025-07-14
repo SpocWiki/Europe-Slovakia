@@ -40,11 +40,16 @@ markerFolder: ./Trnavský/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovakia/Counties/Trnavský|Trnavský]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovakia/Counties/Trnavský.public|Trnavský.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Trnavský.internal|Trnavský.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Trnavský.protect|Trnavský.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovakia/Counties/Trnavský.private|Trnavský.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Trnavský.personal|Trnavský.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Trnavský.secret|Trnavský.secret]] 
+
+### [Trnavský.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.public.md) 
+
+### [Trnavský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.internal.md) 
+
+### [Trnavský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.protect.md) 
+
+### [Trnavský.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.private.md) 
+
+### [Trnavský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.personal.md) 
+
+### [Trnavský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrnavský.secret.md)
 

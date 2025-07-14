@@ -40,11 +40,16 @@ markerFolder: ./Nitriansky/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovakia/Counties/Nitriansky|Nitriansky]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovakia/Counties/Nitriansky.public|Nitriansky.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.internal|Nitriansky.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Nitriansky.protect|Nitriansky.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovakia/Counties/Nitriansky.private|Nitriansky.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Nitriansky.personal|Nitriansky.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Nitriansky.secret|Nitriansky.secret]] 
+
+### [Nitriansky.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.public.md) 
+
+### [Nitriansky.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.internal.md) 
+
+### [Nitriansky.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.protect.md) 
+
+### [Nitriansky.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.private.md) 
+
+### [Nitriansky.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.personal.md) 
+
+### [Nitriansky.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaNitriansky.secret.md)
 

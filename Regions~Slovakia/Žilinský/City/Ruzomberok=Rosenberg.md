@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.08,19.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg|Ruzomberok=Rosenberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.public|Ruzomberok=Rosenberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.internal|Ruzomberok=Rosenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.protect|Ruzomberok=Rosenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.private|Ruzomberok=Rosenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.personal|Ruzomberok=Rosenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ruzomberok=Rosenberg.secret|Ruzomberok=Rosenberg.secret]] 
+
+### [Ruzomberok=Rosenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.public.md) 
+
+### [Ruzomberok=Rosenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.internal.md) 
+
+### [Ruzomberok=Rosenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.protect.md) 
+
+### [Ruzomberok=Rosenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.private.md) 
+
+### [Ruzomberok=Rosenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.personal.md) 
+
+### [Ruzomberok=Rosenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityRuzomberok=Rosenberg.secret.md)
+

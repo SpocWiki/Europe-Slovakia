@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.07,18.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin|Turc_Sv._Martin]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.public|Turc_Sv._Martin.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.internal|Turc_Sv._Martin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.protect|Turc_Sv._Martin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.private|Turc_Sv._Martin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.personal|Turc_Sv._Martin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Turc_Sv._Martin.secret|Turc_Sv._Martin.secret]] 
+
+### [Turc_Sv._Martin.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.public.md) 
+
+### [Turc_Sv._Martin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.internal.md) 
+
+### [Turc_Sv._Martin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.protect.md) 
+
+### [Turc_Sv._Martin.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.private.md) 
+
+### [Turc_Sv._Martin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.personal.md) 
+
+### [Turc_Sv._Martin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Žilinský\CityTurc_Sv._Martin.secret.md)
+

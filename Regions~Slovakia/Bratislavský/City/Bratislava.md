@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,17.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovakia/City/Bratislava|Bratislava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovakia/City/Bratislava.public|Bratislava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovakia/City/Bratislava.internal|Bratislava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovakia/City/Bratislava.protect|Bratislava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovakia/City/Bratislava.private|Bratislava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovakia/City/Bratislava.personal|Bratislava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovakia/City/Bratislava.secret|Bratislava.secret]] 
+
+### [Bratislava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.public.md) 
+
+### [Bratislava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.internal.md) 
+
+### [Bratislava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.protect.md) 
+
+### [Bratislava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.private.md) 
+
+### [Bratislava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.personal.md) 
+
+### [Bratislava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityBratislava.secret.md)
+

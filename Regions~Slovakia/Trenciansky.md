@@ -40,11 +40,16 @@ markerFolder: ./Trenciansky/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Slovakia/Counties/Trenciansky|Trenciansky]] 
-- [[../../../../../../_public/geo/Continent/Europe/Slovakia/Counties/Trenciansky.public|Trenciansky.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Slovakia/Counties/Trenciansky.internal|Trenciansky.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Slovakia/Counties/Trenciansky.protect|Trenciansky.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Slovakia/Counties/Trenciansky.private|Trenciansky.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Slovakia/Counties/Trenciansky.personal|Trenciansky.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Slovakia/Counties/Trenciansky.secret|Trenciansky.secret]] 
+
+### [Trenciansky.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.public.md) 
+
+### [Trenciansky.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.internal.md) 
+
+### [Trenciansky.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.protect.md) 
+
+### [Trenciansky.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.private.md) 
+
+### [Trenciansky.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.personal.md) 
+
+### [Trenciansky.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~SlovakiaTrenciansky.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.58,18.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Hungary/City/Torna|Torna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Hungary/City/Torna.public|Torna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Hungary/City/Torna.internal|Torna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Hungary/City/Torna.protect|Torna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Hungary/City/Torna.private|Torna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Hungary/City/Torna.personal|Torna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Hungary/City/Torna.secret|Torna.secret]] 
+
+### [Torna.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.public.md) 
+
+### [Torna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.internal.md) 
+
+### [Torna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.protect.md) 
+
+### [Torna.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.private.md) 
+
+### [Torna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.personal.md) 
+
+### [Torna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Trenciansky\CityTorna.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.08,17.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava|Pressburg=Bratislava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.public|Pressburg=Bratislava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.internal|Pressburg=Bratislava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.protect|Pressburg=Bratislava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.private|Pressburg=Bratislava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.personal|Pressburg=Bratislava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pressburg=Bratislava.secret|Pressburg=Bratislava.secret]] 
+
+### [Pressburg=Bratislava.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.public.md) 
+
+### [Pressburg=Bratislava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.internal.md) 
+
+### [Pressburg=Bratislava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.protect.md) 
+
+### [Pressburg=Bratislava.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.private.md) 
+
+### [Pressburg=Bratislava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.personal.md) 
+
+### [Pressburg=Bratislava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Bratislavský\CityPressburg=Bratislava.secret.md)
+

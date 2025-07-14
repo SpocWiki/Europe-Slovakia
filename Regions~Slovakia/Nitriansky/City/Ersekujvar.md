@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.98,18.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Ersekujvar|Ersekujvar]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.public|Ersekujvar.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.internal|Ersekujvar.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.protect|Ersekujvar.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.private|Ersekujvar.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.personal|Ersekujvar.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ersekujvar.secret|Ersekujvar.secret]] 
+
+### [Ersekujvar.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.public.md) 
+
+### [Ersekujvar.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.internal.md) 
+
+### [Ersekujvar.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.protect.md) 
+
+### [Ersekujvar.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.private.md) 
+
+### [Ersekujvar.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.personal.md) 
+
+### [Ersekujvar.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Nitriansky\CityErsekujvar.secret.md)
+

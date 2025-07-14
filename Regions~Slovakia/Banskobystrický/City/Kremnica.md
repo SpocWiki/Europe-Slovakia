@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.7,18.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kremnica|Kremnica]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kremnica.public|Kremnica.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremnica.internal|Kremnica.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremnica.protect|Kremnica.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremnica.private|Kremnica.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremnica.personal|Kremnica.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremnica.secret|Kremnica.secret]] 
+
+### [Kremnica.public](/_public/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.public.md) 
+
+### [Kremnica.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.internal.md) 
+
+### [Kremnica.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.protect.md) 
+
+### [Kremnica.private](/_private/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.private.md) 
+
+### [Kremnica.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.personal.md) 
+
+### [Kremnica.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Slovakia\Regions~Slovakia\Banskobystrický\CityKremnica.secret.md)
+
