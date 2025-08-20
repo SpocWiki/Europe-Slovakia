@@ -1,37 +1,38 @@
 ---
 location:
-- 48.13
-- 17.1
+  - 48.13
+  - 17.1
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27018
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Slovakia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Slovakia
-- Eslovaquia
-- Slovaquie
-- سلوفاكيا
-- 斯洛伐克
-- Словакия
-- the Slovak Republic
-- la República Eslovaca
+  - Slovakia
+  - Eslovaquia
+  - Slovaquie
+  - سلوفاكيا
+  - 斯洛伐克
+  - Словакия
+  - the Slovak Republic
+  - la República Eslovaca
 Languages:
-- sk
-- hu
+  - sk
+  - hu
 ---
 
 
