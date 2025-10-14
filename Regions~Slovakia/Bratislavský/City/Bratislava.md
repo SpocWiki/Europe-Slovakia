@@ -154,7 +154,7 @@ State ::
 Country :: [[../../../../Slovakia]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]] 
 
