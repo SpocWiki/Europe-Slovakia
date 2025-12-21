@@ -1,16 +1,19 @@
 ---
-location: [47.98,18.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ersekujvar
+location:
+  - 47.98
+  - 18.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30059
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

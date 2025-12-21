@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Slovakia
+  - Eslovaquia
+  - Slovaquie
+  - سلوفاكيا
+  - 斯洛伐克
+  - Словакия
+  - the Slovak Republic
+  - la República Eslovaca
+  - ReadMe
 location:
   - 48.13
   - 17.1
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Slovakia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Slovakia
-  - Eslovaquia
-  - Slovaquie
-  - سلوفاكيا
-  - 斯洛伐克
-  - Словакия
-  - the Slovak Republic
-  - la República Eslovaca
+publishDate: ''
+expiryDate: ''
 Languages:
   - sk
   - hu

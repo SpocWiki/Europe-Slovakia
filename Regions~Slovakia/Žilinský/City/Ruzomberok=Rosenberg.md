@@ -1,16 +1,19 @@
 ---
-location: [49.08,19.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ruzomberok=Rosenberg
+location:
+  - 49.08
+  - 19.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33837
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
