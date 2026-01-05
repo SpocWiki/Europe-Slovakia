@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0907-01-01 
 aliases:
   - Breslau
   - Bratislava
