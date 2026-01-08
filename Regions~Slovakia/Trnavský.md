@@ -40,17 +40,17 @@ markerFolder: ./Trnavský/
 
 ## Confidential Links & Embeds: 
 
-### [Trnavský](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský|Trnavský]] 
 
-### [Trnavský.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.public|Trnavský.public]] 
 
-### [Trnavský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.internal|Trnavský.internal]] 
 
-### [Trnavský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.protect|Trnavský.protect]] 
 
-### [Trnavský.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.private|Trnavský.private]] 
 
-### [Trnavský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.personal|Trnavský.personal]] 
 
-### [Trnavský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský.secret|Trnavský.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35073
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.58
+dv_has_place_latitude: 48.38
+dv_name: Tyrnau=Trnava
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.58] 
-[has_place_latitude::48.38] 
-[name::Tyrnau=Trnava] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tyrnau=Trnava](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava|Tyrnau=Trnava]] 
 
-### [Tyrnau=Trnava.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.public|Tyrnau=Trnava.public]] 
 
-### [Tyrnau=Trnava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.internal|Tyrnau=Trnava.internal]] 
 
-### [Tyrnau=Trnava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.protect|Tyrnau=Trnava.protect]] 
 
-### [Tyrnau=Trnava.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.private|Tyrnau=Trnava.private]] 
 
-### [Tyrnau=Trnava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.personal|Tyrnau=Trnava.personal]] 
 
-### [Tyrnau=Trnava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trnavský/City/Tyrnau=Trnava.secret|Tyrnau=Trnava.secret]] 
 

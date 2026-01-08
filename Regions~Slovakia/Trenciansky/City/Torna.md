@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34912
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.55
+dv_has_place_latitude: 48.58
+dv_name: Torna
+dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.55] 
-[has_place_latitude::48.58] 
-[name::Torna] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Hungary]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Torna](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna|Torna]] 
 
-### [Torna.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.public|Torna.public]] 
 
-### [Torna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.internal|Torna.internal]] 
 
-### [Torna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.protect|Torna.protect]] 
 
-### [Torna.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.private|Torna.private]] 
 
-### [Torna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.personal|Torna.personal]] 
 
-### [Torna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Trenciansky/City/Torna.secret|Torna.secret]] 
 

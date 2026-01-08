@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 17.1
+dv_has_place_latitude: 48.13
+dv_name: Bratislava
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"
+
 has_time_started: 0907-01-01 
 aliases:
   - Breslau
@@ -148,17 +156,17 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bratislava-bratis
 # [[Bratislava]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::17.1] 
-[has_place_latitude::48.13] 
-[name::Bratislava] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Slovakia]] 
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -173,17 +181,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bratislava](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava|Bratislava]] 
 
-### [Bratislava.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.public|Bratislava.public]] 
 
-### [Bratislava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.internal|Bratislava.internal]] 
 
-### [Bratislava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.protect|Bratislava.protect]] 
 
-### [Bratislava.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.private|Bratislava.private]] 
 
-### [Bratislava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.personal|Bratislava.personal]] 
 
-### [Bratislava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava.secret|Bratislava.secret]] 
 

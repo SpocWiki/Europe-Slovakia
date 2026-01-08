@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30059
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.17
+dv_has_place_latitude: 47.98
+dv_name: Ersekujvar
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.17] 
-[has_place_latitude::47.98] 
-[name::Ersekujvar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ersekujvar](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar|Ersekujvar]] 
 
-### [Ersekujvar.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.public|Ersekujvar.public]] 
 
-### [Ersekujvar.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.internal|Ersekujvar.internal]] 
 
-### [Ersekujvar.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.protect|Ersekujvar.protect]] 
 
-### [Ersekujvar.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.private|Ersekujvar.private]] 
 
-### [Ersekujvar.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.personal|Ersekujvar.personal]] 
 
-### [Ersekujvar.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Nitriansky/City/Ersekujvar.secret|Ersekujvar.secret]] 
 

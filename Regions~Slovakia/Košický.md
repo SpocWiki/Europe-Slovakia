@@ -40,17 +40,17 @@ markerFolder: ./Košický/
 
 ## Confidential Links & Embeds: 
 
-### [Košický](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický|Košický]] 
 
-### [Košický.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.public|Košický.public]] 
 
-### [Košický.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.internal|Košický.internal]] 
 
-### [Košický.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.protect|Košický.protect]] 
 
-### [Košický.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.private|Košický.private]] 
 
-### [Košický.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.personal|Košický.personal]] 
 
-### [Košický.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Košický.secret|Košický.secret]] 
 

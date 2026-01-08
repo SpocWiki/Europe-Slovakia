@@ -40,17 +40,17 @@ markerFolder: ./Bratislavský/
 
 ## Confidential Links & Embeds: 
 
-### [Bratislavský](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský|Bratislavský]] 
 
-### [Bratislavský.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.public|Bratislavský.public]] 
 
-### [Bratislavský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.internal|Bratislavský.internal]] 
 
-### [Bratislavský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.protect|Bratislavský.protect]] 
 
-### [Bratislavský.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.private|Bratislavský.private]] 
 
-### [Bratislavský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.personal|Bratislavský.personal]] 
 
-### [Bratislavský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia/Regions~Slovakia/Bratislavský.secret|Bratislavský.secret]] 
 
