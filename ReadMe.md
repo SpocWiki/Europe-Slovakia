@@ -42,15 +42,13 @@ dv_ISO4217-currency_country_name: SLOVAKIA
 dv_Telephone: 421
 dv_Global: true
 dv_Global_Name: World
-dv_name: Slovakia
-dv_name-en:
-  - Slovakia
-  - Slovakia
-dv_name-es: Eslovaquia
-dv_name-fr: Slovaquie
-dv_name-cn: 斯洛伐克
-dv_name-ar: سلوفاكيا
-dv_name-ru: Словакия
+dv_has_name_: Slovakia
+dv_has_name_en: Slovakia
+dv_has_name_es: Eslovaquia
+dv_has_name_fr: Slovaquie
+dv_has_name_cn: 斯洛伐克
+dv_has_name_ar: سلوفاكيا
+dv_has_name_ru: Словакия
 dv_CLDR_display_name: Slovakia
 dv_UNTERM_English: Slovakia
 dv_UNTERM_English_Formal: the Slovak Republic
@@ -87,7 +85,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 703
 dv_ISO2: SK
 dv_ISO3: SVK
-dv_name-de: Slowakei
+dv_has_name_de: Slowakei
 dv_Area-Total: 49036
 dv_Area-Land: 48080
 dv_Continent: "[[../../../Europe]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Slovakia ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Slovakia ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -178,8 +176,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Slovakia] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Slovakia] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

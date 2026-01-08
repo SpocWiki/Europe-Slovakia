@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.03
 dv_has_place_latitude: 48.88
-dv_name: Tencin=Trencsen
+dv_has_name_: Tencin=Trencsen
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

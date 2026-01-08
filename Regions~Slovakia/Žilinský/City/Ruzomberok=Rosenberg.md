@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.3
 dv_has_place_latitude: 49.08
-dv_name: Ruzomberok=Rosenberg
+dv_has_name_: Ruzomberok=Rosenberg
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

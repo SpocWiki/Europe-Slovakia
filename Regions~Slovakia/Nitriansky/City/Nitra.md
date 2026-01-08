@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.1
 dv_has_place_latitude: 48.32
-dv_name: Nitra
+dv_has_name_: Nitra
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

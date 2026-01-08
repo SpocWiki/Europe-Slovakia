@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.83
 dv_has_place_latitude: 48.62
-dv_name: Piestany=Postyan
+dv_has_name_: Piestany=Postyan
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.12
 dv_has_place_latitude: 48.08
-dv_name: Pressburg=Bratislava
+dv_has_name_: Pressburg=Bratislava
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.13
 dv_has_place_latitude: 48.75
-dv_name: Benska Bystrica
+dv_has_name_: Benska Bystrica
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

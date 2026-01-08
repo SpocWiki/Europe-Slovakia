@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.55
 dv_has_place_latitude: 48.58
-dv_name: Torna
+dv_has_name_: Torna
 dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  

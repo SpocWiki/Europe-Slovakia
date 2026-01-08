@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.68
 dv_has_place_latitude: 48.33
-dv_name: Losonc
+dv_has_name_: Losonc
 dv_Country: "[[../../../../../Europe~East/Hungary]]"
 ---
 #is_a_/Place  

@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
-dv_name: Bratislava
+dv_has_name_: Bratislava
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"

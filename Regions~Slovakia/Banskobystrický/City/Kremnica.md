@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.92
 dv_has_place_latitude: 48.7
-dv_name: Kremnica
+dv_has_name_: Kremnica
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

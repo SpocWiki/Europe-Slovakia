@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.12
 dv_has_place_latitude: 48.58
-dv_name: Zvolen
+dv_has_name_: Zvolen
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

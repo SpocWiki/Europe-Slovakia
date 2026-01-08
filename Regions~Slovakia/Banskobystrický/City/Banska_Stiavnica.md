@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.9
 dv_has_place_latitude: 48.47
-dv_name: Banska Stiavnica
+dv_has_name_: Banska Stiavnica
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

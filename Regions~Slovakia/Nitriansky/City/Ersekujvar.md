@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.17
 dv_has_place_latitude: 47.98
-dv_name: Ersekujvar
+dv_has_name_: Ersekujvar
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
