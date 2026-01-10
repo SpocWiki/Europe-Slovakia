@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
-dv_has_name_: Bratislava
+dv_has_name: Bratislava
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Bratislava,1780|WD~Bratislava,1780]]"
@@ -159,7 +159,7 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bratislava-bratis
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Slovakia]] 
 [StateId::] 
