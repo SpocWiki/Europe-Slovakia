@@ -15,7 +15,7 @@ tags:
 SpocWebEntityId: 35048
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 18.93
 dv_has_place_latitude: 49.07
 dv_has_name: Turc Sv. Martin

@@ -15,7 +15,7 @@ tags:
 SpocWebEntityId: 29011
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 18.9
 dv_has_place_latitude: 48.47
 dv_has_name: Banska Stiavnica

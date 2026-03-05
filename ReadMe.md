@@ -62,7 +62,7 @@ dv_UNTERM_Chinese_Formal: 斯洛伐克共和国
 dv_UNTERM_French_Formal: la République slovaque
 dv_UNTERM_Russian: Словакия
 dv_UNTERM_Russian_Formal: Словацкая Республика
-dv_Region_Name: "[[../../../Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[ReadMe]]"
 dv_Sub-region_Name: "[[Eastern Europe]]"
 dv_Region: 150
@@ -88,11 +88,11 @@ dv_ISO3: SVK
 dv_has_name_de: Slowakei
 dv_Area-Total: 49036
 dv_Area-Land: 48080
-dv_Continent: "[[../../../Europe]]"
+dv_Continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: SK
-dv_Capital: "[[Regions~Slovakia/Bratislavský/City/Bratislava]]"
+dv_Capital: "[[Regions~Slovakia/Bratislavský/City/Bratislava|Bratislava]]"
 dv_Alcohol-l: 13.3
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_developed_developing_countries: Developed

@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 34809
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 18.03
 dv_has_place_latitude: 48.88
 dv_has_name: Tencin=Trencsen

@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 31632
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 18.92
 dv_has_place_latitude: 48.7
 dv_has_name: Kremnica

@@ -1,5 +1,5 @@
 ---
-dv_is_a_: '[[../../../../../../../Geography/Place]]'
+dv_is_a_: '[[../../../../../../../Geography/Place|Place]]'
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_has_name: Bratislava
@@ -83,84 +83,84 @@ SpocWebEntityId: 29319
 isDeleted: false
 confidential: public
 capital_of:
-- '[[_Standards/WikiData/WD~Slovak_Republic,154401]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150]]'
-- '[[_Standards/WikiData/WD~Bratislava_Region,183498]]'
-- '[[_Standards/WikiData/WD~Pozsony_County,187383]]'
-- '[[_Standards/WikiData/WD~Western_Slovakia,246934]]'
-- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,253094]]'
-- '[[_Standards/WikiData/WD~Slovak_Socialist_Republic,1751495]]'
-- '[[_Standards/WikiData/WD~Military_District_of_Preßburg,6852023]]'
-- '[[_Standards/WikiData/WD~Bratislava_region_(1948_1960),56273457]]'
-- '[[_Standards/WikiData/WD~Pozsony_1_urban_electoral_district,119983250]]'
-- '[[_Standards/WikiData/WD~Pozsony_2_urban_electoral_district,119983251]]'
-- '[[_Standards/WikiData/WD~Slovakia,214]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Bratislava_Region,183498]]'
+- '[[_Standards/WikiData/WD~Slovak_Republic,154401|WD~Slovak_Republic,154401]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,171150|WD~Kingdom_of_Hungary,171150]]'
+- '[[_Standards/WikiData/WD~Bratislava_Region,183498|WD~Bratislava_Region,183498]]'
+- '[[_Standards/WikiData/WD~Pozsony_County,187383|WD~Pozsony_County,187383]]'
+- '[[_Standards/WikiData/WD~Western_Slovakia,246934|WD~Western_Slovakia,246934]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hungary,253094|WD~Kingdom_of_Hungary,253094]]'
+- '[[_Standards/WikiData/WD~Slovak_Socialist_Republic,1751495|WD~Slovak_Socialist_Republic,1751495]]'
+- '[[_Standards/WikiData/WD~Military_District_of_Preßburg,6852023|WD~Military_District_of_Preßburg,6852023]]'
+- '[[_Standards/WikiData/WD~Bratislava_region_(1948_1960),56273457|WD~Bratislava_region_(1948_1960),56273457]]'
+- '[[_Standards/WikiData/WD~Pozsony_1_urban_electoral_district,119983250|WD~Pozsony_1_urban_electoral_district,119983250]]'
+- '[[_Standards/WikiData/WD~Pozsony_2_urban_electoral_district,119983251|WD~Pozsony_2_urban_electoral_district,119983251]]'
+- '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Bratislava_Region,183498|WD~Bratislava_Region,183498]]'
 owner_of:
-- '[[_Standards/WikiData/WD~Ondrej_Nepela_Arena,203932]]'
-- '[[_Standards/WikiData/WD~Štadión_Pasienky,392305]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Bratislava,213398]]'
+- '[[_Standards/WikiData/WD~Ondrej_Nepela_Arena,203932|WD~Ondrej_Nepela_Arena,203932]]'
+- '[[_Standards/WikiData/WD~Štadión_Pasienky,392305|WD~Štadión_Pasienky,392305]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Bratislava,213398|WD~history_of_Bratislava,213398]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Záhorská_Bystrica,246755]]'
-- '[[_Standards/WikiData/WD~Čunovo,341724]]'
-- '[[_Standards/WikiData/WD~Dúbravka,616170]]'
-- '[[_Standards/WikiData/WD~Devín,661046]]'
-- '[[_Standards/WikiData/WD~Podunajské_Biskupice,683983]]'
-- '[[_Standards/WikiData/WD~Nové_Mesto,740351]]'
-- '[[_Standards/WikiData/WD~Lamač,787303]]'
-- '[[_Standards/WikiData/WD~Ružinov,934473]]'
-- '[[_Standards/WikiData/WD~Devínska_Nová_Ves,970325]]'
-- '[[_Standards/WikiData/WD~Karlova_Ves,1012707]]'
-- '[[_Standards/WikiData/WD~Petržalka,1013328]]'
-- '[[_Standards/WikiData/WD~Vrakuňa,1020906]]'
-- '[[_Standards/WikiData/WD~Rača,1025249]]'
-- '[[_Standards/WikiData/WD~Jarovce,1055697]]'
-- '[[_Standards/WikiData/WD~Vajnory,1091778]]'
-- '[[_Standards/WikiData/WD~Rusovce,1091791]]'
-- '[[_Standards/WikiData/WD~Old_Town_of_Bratislava,1898406]]'
+- '[[_Standards/WikiData/WD~Záhorská_Bystrica,246755|WD~Záhorská_Bystrica,246755]]'
+- '[[_Standards/WikiData/WD~Čunovo,341724|WD~Čunovo,341724]]'
+- '[[_Standards/WikiData/WD~Dúbravka,616170|WD~Dúbravka,616170]]'
+- '[[_Standards/WikiData/WD~Devín,661046|WD~Devín,661046]]'
+- '[[_Standards/WikiData/WD~Podunajské_Biskupice,683983|WD~Podunajské_Biskupice,683983]]'
+- '[[_Standards/WikiData/WD~Nové_Mesto,740351|WD~Nové_Mesto,740351]]'
+- '[[_Standards/WikiData/WD~Lamač,787303|WD~Lamač,787303]]'
+- '[[_Standards/WikiData/WD~Ružinov,934473|WD~Ružinov,934473]]'
+- '[[_Standards/WikiData/WD~Devínska_Nová_Ves,970325|WD~Devínska_Nová_Ves,970325]]'
+- '[[_Standards/WikiData/WD~Karlova_Ves,1012707|WD~Karlova_Ves,1012707]]'
+- '[[_Standards/WikiData/WD~Petržalka,1013328|WD~Petržalka,1013328]]'
+- '[[_Standards/WikiData/WD~Vrakuňa,1020906|WD~Vrakuňa,1020906]]'
+- '[[_Standards/WikiData/WD~Rača,1025249|WD~Rača,1025249]]'
+- '[[_Standards/WikiData/WD~Jarovce,1055697|WD~Jarovce,1055697]]'
+- '[[_Standards/WikiData/WD~Vajnory,1091778|WD~Vajnory,1091778]]'
+- '[[_Standards/WikiData/WD~Rusovce,1091791|WD~Rusovce,1091791]]'
+- '[[_Standards/WikiData/WD~Old_Town_of_Bratislava,1898406|WD~Old_Town_of_Bratislava,1898406]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Gebrian_versus,65969619]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Bratislava,728795]]'
-connects_with: '[[_Standards/WikiData/WD~European_route_E65,911135]]'
+- '[[_Standards/WikiData/WD~Regesta_Imperii,316838|WD~Regesta_Imperii,316838]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Gebrian_versus,65969619|WD~Gebrian_versus,65969619]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Bratislava,728795|WD~coat_of_arms_of_Bratislava,728795]]'
+connects_with: '[[_Standards/WikiData/WD~European_route_E65,911135|WD~European_route_E65,911135]]'
 instance_of:
-- '[[_Standards/WikiData/WD~big_city,1549591]]'
-- '[[_Standards/WikiData/WD~municipality_of_Slovakia,6784672]]'
-- '[[_Standards/WikiData/WD~city,515]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Bratislava,1804435]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bratislava,4179338]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Bratislava,5535127]]'
+- '[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~municipality_of_Slovakia,6784672|WD~municipality_of_Slovakia,6784672]]'
+- '[[_Standards/WikiData/WD~city,515|WD~city,515]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Bratislava,1804435|WD~demographics_of_Bratislava,1804435]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bratislava,4179338|WD~economy_of_Bratislava,4179338]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Bratislava,5535127|WD~geography_of_Bratislava,5535127]]'
 member_of:
-- '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
-- '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q11383325,11383325]]'
-head_of_government: '[[_Standards/WikiData/WD~Matúš_Vallo,12771236]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bratislava,13361087]]'
+- '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972|WD~League_of_Historical_Cities,9383972]]'
+- '[[_Standards/WikiData/WD~International_Cities_of_Refuge_Network,15477956|WD~International_Cities_of_Refuge_Network,15477956]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q11383325,11383325|WD~Q11383325,11383325]]'
+head_of_government: '[[_Standards/WikiData/WD~Matúš_Vallo,12771236|WD~Matúš_Vallo,12771236]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Bratislava,13361087|WD~Template_Bratislava,13361087]]'
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%2C%20Slovakia%20%28Copernicus%202025-07-17%29.png
-has_edition_or_translation: '[[_Standards/WikiData/WD~Vlastenský_slovník_historický_Prešpurk,60404023]]'
-follows: '[[_Standards/WikiData/WD~Pozsony,98008573]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Vlastenský_slovník_historický_Prešpurk,60404023|WD~Vlastenský_slovník_historický_Prešpurk,60404023]]'
+follows: '[[_Standards/WikiData/WD~Pozsony,98008573|WD~Pozsony,98008573]]'
 area: 367.664262
 time_of_earliest_written_record: 0907-01-01T00:00:00Z
 inception: 0907-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Danube,1653]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Danube,1653|WD~Danube,1653]]'
 twinned_administrative_body:
-- '[[_Standards/WikiData/WD~Kyiv,1899]]'
-- '[[_Standards/WikiData/WD~Kraków,31487]]'
-present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
+- '[[_Standards/WikiData/WD~Kyiv,1899|WD~Kyiv,1899]]'
+- '[[_Standards/WikiData/WD~Kraków,31487|WD~Kraków,31487]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-country: '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
 elevation_above_sea_level: 152
 local_dialing_code: 2
 BHCL_UUID:
@@ -431,7 +431,7 @@ has_place_longitude = `=this.dv_has_place_longitude`
 has_place_latitude = `=this.dv_has_place_latitude` 
 name = `=this.dv_has_name` 
 State ::  
-Country :: [[../../../../Slovakia]] 
+Country :: [[../../../../Slovakia|Slovakia]] 
 [StateId::] 
 [Population::] 
 

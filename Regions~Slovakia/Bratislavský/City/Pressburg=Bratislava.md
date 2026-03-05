@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 33517
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 17.12
 dv_has_place_latitude: 48.08
 dv_has_name: Pressburg=Bratislava

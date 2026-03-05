@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 33365
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 17.83
 dv_has_place_latitude: 48.62
 dv_has_name: Piestany=Postyan

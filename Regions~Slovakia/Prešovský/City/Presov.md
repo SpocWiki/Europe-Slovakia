@@ -14,7 +14,7 @@ tags:
 SpocWebEntityId: 33516
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../Geography/Place|Place]]"
 dv_has_place_longitude: 21.23
 dv_has_place_latitude: 49
 dv_has_name: Presov
