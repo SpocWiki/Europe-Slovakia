@@ -36,7 +36,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Prešov/
 markerFolder: ./Prešov/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

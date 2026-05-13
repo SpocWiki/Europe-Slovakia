@@ -35,7 +35,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Žilinský/
 markerFolder: ./Žilinský/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

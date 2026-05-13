@@ -35,7 +35,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Trenciansky/
 markerFolder: ./Trenciansky/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

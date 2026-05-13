@@ -38,7 +38,7 @@ coordinates: [[Ruzomberok=Rosenberg]]
 markerFile: [[Ruzomberok=Rosenberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

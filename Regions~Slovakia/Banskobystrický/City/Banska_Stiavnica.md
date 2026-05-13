@@ -39,7 +39,7 @@ coordinates: [[Banska_Stiavnica]]
 markerFile: [[Banska_Stiavnica]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

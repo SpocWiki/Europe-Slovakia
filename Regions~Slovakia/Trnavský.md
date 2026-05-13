@@ -35,7 +35,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Trnavský/
 markerFolder: ./Trnavský/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

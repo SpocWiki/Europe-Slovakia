@@ -35,7 +35,7 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Bratislavský/
 markerFolder: ./Bratislavský/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

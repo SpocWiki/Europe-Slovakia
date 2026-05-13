@@ -38,7 +38,7 @@ coordinates: [[Pressburg=Bratislava]]
 markerFile: [[Pressburg=Bratislava]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

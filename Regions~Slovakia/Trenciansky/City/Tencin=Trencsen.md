@@ -38,7 +38,7 @@ coordinates: [[Tencin=Trencsen]]
 markerFile: [[Tencin=Trencsen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -38,7 +38,7 @@ coordinates: [[Kassa]]
 markerFile: [[Kassa]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

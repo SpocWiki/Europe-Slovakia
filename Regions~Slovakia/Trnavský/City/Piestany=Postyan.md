@@ -38,7 +38,7 @@ coordinates: [[Piestany=Postyan]]
 markerFile: [[Piestany=Postyan]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
