@@ -196,7 +196,7 @@ dv_UNTERM_Chinese_Formal: 斯洛伐克共和国
 dv_UNTERM_French_Formal: la République slovaque
 dv_UNTERM_Russian: Словакия
 dv_UNTERM_Russian_Formal: Словацкая Республика
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Slovakia]]'
 dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
@@ -221,7 +221,7 @@ dv_ISO2: SK
 dv_ISO3: SVK
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
+  - '[[../../../../../WikiData/WD~Slovakia,214|WD~Slovakia,214]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]]'
@@ -547,11 +547,11 @@ dv_has_:
 dv_has_name_de: Slowakei
 dv_Area-Total: 49036
 dv_Area-Land: 48080
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: SK
-dv_Capital: '[[Slovakia/Regions~Slovakia/Bratislavský/City/Bratislava|Bratislava]]'
+dv_Capital: '[[Regions~Slovakia/Bratislavský/City/Bratislava|Bratislava]]'
 dv_Alcohol-l: 13.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 48.13
 dv_developed_developing_countries: Developed
@@ -566,7 +566,7 @@ dv_is_same_as:
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Slovakia
 highest_point: '[[/_Standards/WikiData/WD~Gerlachovský_štít,81213|WD~Gerlachovský_štít,81213]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -1020,7 +1020,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Slovakia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1040,7 +1040,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Slovakia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1067,7 +1067,7 @@ VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Slovakia.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Slovak-republic.mp3|Anthem-Slovak-republic.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Slovak-republic.mp3|Anthem-Slovak-republic.mp3]]
 
 ![[Flag_of_Slovakia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
